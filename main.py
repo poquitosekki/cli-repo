@@ -2,6 +2,8 @@
 import math
 
 def main(n):
+	for i in range(3):
+		print(i)
 	return f"Sqrt : {math.sqrt(n)}"
 
 if __name__ == '__main__':
